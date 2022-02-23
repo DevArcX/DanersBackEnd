@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "160c3f35-402e-4a97-b77e-eda187dfb31c": {
+      "ProjectGuid": "160c3f35-402e-4a97-b77e-eda187dfb31c",
+      "DisplayName": "DanerSystemApi",
+      "ColorIndex": 0
+    },
+    "24a86710-b91d-4e10-bd0f-89cdfc8d9b22": {
+      "ProjectGuid": "24a86710-b91d-4e10-bd0f-89cdfc8d9b22",
+      "DisplayName": "Models",
+      "ColorIndex": 1
+    },
+    "bcdd54a3-a2a4-4a36-b15e-e01ed1d12876": {
+      "ProjectGuid": "bcdd54a3-a2a4-4a36-b15e-e01ed1d12876",
+      "DisplayName": "Repository",
+      "ColorIndex": 2
+    },
+    "9f87c6ad-6c8e-4816-aac9-ccce0729b9d1": {
+      "ProjectGuid": "9f87c6ad-6c8e-4816-aac9-ccce0729b9d1",
+      "DisplayName": "Logic",
+      "ColorIndex": 3
+    },
+    "50f7a92f-3cda-438f-8b74-4de0ddc05786": {
+      "ProjectGuid": "50f7a92f-3cda-438f-8b74-4de0ddc05786",
+      "DisplayName": "Presentation",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
