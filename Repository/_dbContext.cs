@@ -24,6 +24,7 @@ namespace Repository
 
         public DbSet<rolPersonaModels> RolPersona { get; set; }
         public DbSet<direccionPersonaModels> direccionPersona { get; set; }
+        public DbSet<telefonoModels> telefonoPersona { get; set; }
 
         /*
         public _dbContext(DbContextOptions<_dbContext> options):base(options)
