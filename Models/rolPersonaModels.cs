@@ -10,6 +10,7 @@ namespace Models
     [Table("Rol_Persona")]
     public class rolPersonaModels
     {
+        [key]
         public int id { get; set; }
         public string Rol { get; set; }
     }
